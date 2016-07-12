@@ -1,0 +1,17 @@
+#compose-form{
+		position: absolute;
+			bottom: 0;
+			right:15px;
+			padding: 20px;
+		border:2px solid black;
+		display: none;
+		.form-control{
+		    margin-left: 13px;
+		}
+	}
+	.inbox{
+		.inbox-design{
+			font-size: 13px;
+			margin:10px;
+		}
+	}

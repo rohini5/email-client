@@ -1,1 +1,23 @@
-style.css
+.pages {
+  position: relative;
+  height: 100vh; }
+  .pages .btn-solid {
+    position: absolute;
+    top: 10vh;
+    right: 0; }
+
+#compose-form {
+  position: absolute;
+  bottom: 0;
+  right: 15px;
+  padding: 20px;
+  border: 2px solid black;
+  display: none; }
+  #compose-form .form-control {
+    margin-left: 13px; }
+
+.inbox .inbox-design {
+  font-size: 13px;
+  margin: 10px; }
+
+/*# sourceMappingURL=style.css.map */
